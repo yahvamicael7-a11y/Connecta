@@ -1,0 +1,16 @@
+.DS_Store
+node_modules/
+.expo/
+.expo-shared/
+*.jks
+*.keystore
+*.pdb
+*.pdb.txt
+*.sqlite
+*.sql
+*.ngupdate
+*.rsm
+**/__snapshots__/
+**/*.snap
+**/*.log
+**/*.lock
